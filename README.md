@@ -1,5 +1,7 @@
 # NAC4 - Disruptive Architectures IOT e IA
 
+Teste
+
 **Nome dos alunos:**
 
 Bruno Muhlmann - RM84840
